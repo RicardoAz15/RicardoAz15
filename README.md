@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![trophy](https://github-profile-trophy.vercel.app/?username=RicardoAz15)](https://github.com/ryo-ma/github-profile-trophy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoAz15&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAz15&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoAz15&theme=tokyonight" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy#tokyonight" >
+      <img align=top src="https://github-profile-trophy.vercel.app/?username=RicardoAz15&theme=tokyonight" />
+    </a>
     <img src="https://github-readme-stats.vercel.app/api/?username=RicardoAz15&show_icons=true&theme=tokyonight" />
   </a>
 </div>
